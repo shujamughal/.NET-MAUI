@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExample.MainPage">
+
+    <StackLayout >
+        <Label Text="Product 1" />
+        <Label Text="$19.99" />
+        <Label Text="Product 2" />
+        <Label Text="$24.99" />
+        <Label Text="Product 3" />
+        <Label Text="$14.99" />
+        <!-- Add more product items here -->
+    </StackLayout>
+
+</ContentPage>
