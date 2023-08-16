@@ -1,0 +1,17 @@
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Database.deps.json
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Database.runtimeconfig.json
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Database.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Database.pdb
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Shared.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\bin\Debug\net7.0\TodoAppMaui.Shared.pdb
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.csproj.AssemblyReference.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.AssemblyInfoInputs.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.AssemblyInfo.cs
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.csproj.CoreCompileInputs.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.csproj.CopyComplete
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\refint\TodoAppMaui.Database.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.pdb
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\TodoAppMaui.Database.genruntimeconfig.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Database\obj\Debug\net7.0\ref\TodoAppMaui.Database.dll

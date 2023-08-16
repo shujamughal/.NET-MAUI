@@ -1,1 +1,0 @@
-C:\Shuja\Code Examples\.NET MAUI\GridLayoutExample\GridLayoutExample.csproj;x64

@@ -1,0 +1,11 @@
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\bin\Debug\net7.0\TodoAppMaui.Shared.deps.json
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\bin\Debug\net7.0\TodoAppMaui.Shared.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\bin\Debug\net7.0\TodoAppMaui.Shared.pdb
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.AssemblyInfoInputs.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.AssemblyInfo.cs
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\refint\TodoAppMaui.Shared.dll
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\TodoAppMaui.Shared.pdb
+D:\Projects\MAUI\TodoAppMaui\TodoAppMaui.Shared\obj\Debug\net7.0\ref\TodoAppMaui.Shared.dll
